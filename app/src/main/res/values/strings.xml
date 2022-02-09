@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="reset">Reset</string>
+    <string name="_1_the_capital_of_france_is">1. The Capital of France is</string>
+    <string name="country">Country</string>
+    <string name="continent">Continent</string>
+    <string name="_2_asia_is_a">2. Asia is a</string>
+    <string name="largest_continent">Largest Continent</string>
+    <string name="angola">Angola</string>
+    <string name="sudan">Sudan</string>
+    <string name="algeria">Algeria</string>
+    <string name="result">Result</string>
+    <string name="_3_largest_country_in_africa_in_terms_of_land_size_is">3. Largest country in Africa in terms of land size is</string>
+    <string name="_4_india_is_in">4. India is in</string>
+</resources>
+
